@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title >Sara Di Luca</title>
+</head>
+<body bgcolor="black">
+    <h1 align=center> <font color= "purple">
+        Sara Di Luca
+</font>
+    </h1>
+    <h2> <font color="purple">
+        Presentazione
+    </font>
+</h2>
+    <p> 
+        <font color="white">
+         Il mio nome è Sara Di Luca, classe ’92 e sono una persona molto eclettica! La mia fame di sapere non è mai sazia, per cui ho sempre voglia di apprendere. Sono laureata in Scienze della Comunicazione e DAMS e specializzata all'Accademia di Cinema in tecnico della ripresa e montaggio. Il mio campo è sempre stato quello artistico e della comunicazione, essenzialmente mi occupo di videomaking, fotografia e giornalismo. Sono sempre stata anche un’appassionata di informatica e spesso mi sono chiesta: “Dietro le immagini, i testi, i video che vedo su una pagina web, cosa si nasconde?”. L’idea di accedere ad un linguaggio nuovo che riesce a dar vita ad una struttura vera e propria, rivestita di gusto estetico a discrezione del proprio creatore, a me piace moltissimo. Voglio imparare a creare, in questo nuovo mondo, quello informatico, renderlo sempre più mio. </p>
+        </font>
+       <center>
+ <img src="sarad.jpeg" alt="sara di luca" width="600" height="400" />
+       </center>
+<h2> <font color="purple">
+        Lista delle mie passioni
+     </font>
+</h2>
+<ul>
+    <font color="white">
+   <li> Cinema </li>
+    <li>Fotografia</li> 
+    <li>Musica</li>
+    <li>Tecnologia</li>
+    <li>Informatica </li> 
+    <li>Libri</li>
+    <li>Fumetti </li>
+    <li>Manga</li> 
+    <li>Anime</li> 
+    <li>Filosofia</li>
+    <li>Psicologia</li>  
+    <li>Pedagogia</li>
+    <li>Storia</li>
+    <li>Mitologia</li>
+    <li>Complottismo</li>  
+    <li> Andare a fondo nelle cose e non fermarsi mai in superficie</li>
+</font>
+</ul>
+    
+    <style>
+        table { width: 100px; background-color: #FFFFFF; color: #0e020a; border-color: #CA45D6; border-collapse: collapse; }
+        th, td { width: 25px; }
+        </style>
+        <table border="4" cellspacing="2" cellpadding="2" align="center">
+        <thead>
+        <h2 align="center"> <font color="purple">
+
+           Formazione 
+                            </font>
+        </h2>
+        <tr>
+        <th>Diploma</th>
+        <th>Laurea</th>
+        <th>Qualifica Professionale</th>
+
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+        <td>Socio-Psico-Pedagogico</td>
+        <td>Scienze della Comunicazione e DAMS</td>
+        <td>Operatore della ripresa e montaggio cinematografico</td>
+        
+        </tr>
+        
+        </tbody>
+        </table>
+
+<div align="center"> 
+           
+            <h2 align="center">
+                <font color="purple">
+                Come Contattarmi
+                </font>
+            </h2>
+    
+           <a href="https://www.facebook.com/dl.sara/"> Facebook</a>  <a href="mailto:dl.sara@outlook.it"> Email </a> <a href="https://www.instagram.com/bruttaartitudine_/"> Instagram</a> 
+       
+</div> 
+    
+</body>
+</html>
